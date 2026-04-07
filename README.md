@@ -2,7 +2,7 @@
 ![Table](Table.png)
 *Revised Table: Comparison of HOI editing results.*
 
-### 其他结果展示
+### Revised Figures
 
 ![F1](F1.png)
 *Revised Figure 1*
